@@ -1,0 +1,14 @@
+This game is made by me 2~3 year ago, it hasn't been well-organized and the game file broke completely after the change that textmesh pro became Unity's built-in asset, so some scripts are unused, and some are been replaced...etc
+
+這遊戲是我2~3年前製作的，當時沒有規劃的很好，再加上text mesh pro變成Unity內建工具後與原本下載的text mesh pro起衝突導致整個遊戲檔案崩潰，最後只好再重建。有些腳本功能相近、有些腳本功能被取代....
+
+總之，主要的功能有:
+however, some main scripts are:
+
+[Function] : [script name]
+Read SD-card music: MyNativeFolderBrowser.cs
+Get Touch objects : MyCycusLib.cs
+Read music data  :AudioPeer.cs
+Generate hit point: TypingCellControl.cs
+
+ 
